@@ -1,2 +1,2 @@
 # damien-mcgloin.github.io
-This is a basic website I created for fun during my current course in software development
+This is a website I made for fun along with the other members of the QUB Google Student Developer's Club.
