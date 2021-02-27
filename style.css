@@ -96,6 +96,7 @@ html {
 
   .about-text {
     text-align: center;
+    font-weight: bolder;
   }
 
   .media-link {
@@ -108,8 +109,12 @@ html {
     padding: 1.5rem;
   }
 
-  .about-text {
-    font-weight: bolder;
+  .fluid {
+    display: none;
+  }
+
+  .intro-text {
+    padding-top: 3rem;
   }
 
   }
