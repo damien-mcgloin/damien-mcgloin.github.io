@@ -46,7 +46,6 @@ html {
   }
 
   .project-img {
-    max-width: 250px;
     max-height: 250px;
   }
 
@@ -92,6 +91,10 @@ html {
 
   .about-text {
     text-align: center;
+  }
+      
+  .media-link {
+    margin-bottom: 1rem;
   }
 
   }
