@@ -30,6 +30,11 @@ html {
     transition: 0.5s ease;
   }
 
+  .about-text {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+
   .main-row {
     display: flex;
     justify-content: center;
@@ -92,9 +97,19 @@ html {
   .about-text {
     text-align: center;
   }
-      
+
   .media-link {
     margin-bottom: 1rem;
+  }
+
+  .link-text {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    padding: 1.5rem;
+  }
+
+  .about-text {
+    font-weight: bolder;
   }
 
   }
